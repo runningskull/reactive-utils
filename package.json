@@ -1,0 +1,23 @@
+{
+  "name": "reactive-utils",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Rafflecopter/reactive-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafflecopter/reactive-utils/issues"
+  },
+  "homepage": "https://github.com/Rafflecopter/reactive-utils",
+  "dependencies": {
+    "lodash.foreach": "^2.4.1",
+    "reactive": "^1.2.0"
+  }
+}
