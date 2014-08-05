@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Rafflecopter/reactive-utils",
   "dependencies": {
     "lodash.foreach": "^2.4.1",
-    "reactive": "^1.2.0"
+    "reactive": "git://github.com/runningskull/reactive.git"
   }
 }
